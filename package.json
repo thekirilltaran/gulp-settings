@@ -1,0 +1,42 @@
+{
+  "name": "landpage_adlabs",
+  "version": "1.0.0",
+  "description": "Landing Page Adlabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Taran",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.20.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.26.14",
+    "del": "^2.2.2",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp4-run-sequence": "^1.0.1",
+    "imagemin-pngquant": "^5.0.1",
+    "run-sequence": "^2.2.1",
+    "sass": "^1.58.3"
+  },
+  "dependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}

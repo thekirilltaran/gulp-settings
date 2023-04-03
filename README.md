@@ -93,7 +93,7 @@ After that you need:
     npm install --global gulp-cli
    ```
 
-2. Clone this repository or cope code from file and create new one and push it outside the folder with your project. For example you have folder with name project. inside you will have folder app (with your file of porject) and gulpfile, packege.json, node_modules(which describes in next step)
+2. Clone this repository or cope code from file and create new one and push it outside the folder with your project. For example you have folder with name project. inside you will have folder app (with your file of project) and gulpfile, packege.json, node_modules(which describes in next step)
 
 3. Do npm install in root folder of your project
    ```sh
@@ -106,7 +106,7 @@ After that you need:
     ```
 
 ### <h4>P.s.</h4>
-If you have some problem you need to check all versions of nodeJs, npm, and gulp. Gulp with version less than 4.0.0 has another structure of fucntion in gulp file, it can be complicated for first run. 
+If you have some problem you need to check all versions of nodeJs, npm, and gulp. Gulp with version less than 4.0.0 has another structure of function in gulp file, it can be complicated for first run. 
 
 Also, you can add some new settings to web server or change the start and end folder where you want to compile files.
 
